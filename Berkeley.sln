@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Berkeley.Master", "Berkeley.Master\Berkeley.Master.csproj", "{FF37216E-BAF4-496C-B237-932FA06570F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Berkeley.Master", "Berkeley.Master\Berkeley.Master.csproj", "{FF37216E-BAF4-496C-B237-932FA06570F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Berkeley.Slave", "Berkeley.Slave\Berkeley.Slave.csproj", "{701EC5D7-DEFE-434D-AC6E-08CE59A62EBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Berkeley.Slave", "Berkeley.Slave\Berkeley.Slave.csproj", "{701EC5D7-DEFE-434D-AC6E-08CE59A62EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Berkeley.Common", "Berkeley.Common\Berkeley.Common.csproj", "{CE76B75E-F486-4D68-A886-761973843978}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{701EC5D7-DEFE-434D-AC6E-08CE59A62EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{701EC5D7-DEFE-434D-AC6E-08CE59A62EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{701EC5D7-DEFE-434D-AC6E-08CE59A62EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE76B75E-F486-4D68-A886-761973843978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE76B75E-F486-4D68-A886-761973843978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE76B75E-F486-4D68-A886-761973843978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE76B75E-F486-4D68-A886-761973843978}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
