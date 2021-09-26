@@ -1,4 +1,6 @@
-﻿namespace Berkeley.Common
+﻿// Alunos: Bruno Ricardo Junkes, Igor Christofer Eisenhut e Manoella Marcondes Junkes
+
+namespace Berkeley.Common
 {
     public static class Constantes
     {

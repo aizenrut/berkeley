@@ -1,4 +1,6 @@
-﻿using Berkeley.Common;
+﻿// Alunos: Bruno Ricardo Junkes, Igor Christofer Eisenhut e Manoella Marcondes Junkes
+
+using Berkeley.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;

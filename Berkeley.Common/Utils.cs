@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Alunos: Bruno Ricardo Junkes, Igor Christofer Eisenhut e Manoella Marcondes Junkes
+
+using System;
 using System.Net;
 
 namespace Berkeley.Common
